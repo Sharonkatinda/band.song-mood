@@ -4,7 +4,6 @@ Favourite song mood Fan Site
 
  Author
 [Sharon katinda]
-file:///C:/Users/User/Desktop/projects/favourite%20song%20mood/favmood.html/mood.html
 
  Description
 This fan site is dedicated to celebrating the music of [Your Favorite Band's Name]. The band's soulful melodies and captivating lyrics have been a constant source of inspiration for me throughout my journey as a programmer. This fan site features some of my favorite songs, information about the band members, and links to their social media profiles.
