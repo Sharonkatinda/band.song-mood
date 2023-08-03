@@ -1,0 +1,10 @@
+body {
+    background-color: rgba(0, 128, 11, 0.486); /* light green background color */
+    color: black; /* Black text color */
+  }
+  
+  a {
+    color: white; /* White text color for links */
+    text-decoration: none; /* Remove underline from links */
+  }
+  
